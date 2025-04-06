@@ -1,0 +1,1 @@
+/workspaces/sistema-recomendacao/megastore_search/target/debug/megastore_search: /workspaces/sistema-recomendacao/megastore_search/src/index.rs /workspaces/sistema-recomendacao/megastore_search/src/main.rs /workspaces/sistema-recomendacao/megastore_search/src/produto.rs

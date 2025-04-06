@@ -1,0 +1,8 @@
+[package]
+name = "megastore_search"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+petgraph = "0.6"
+deunicode = "1.4"
